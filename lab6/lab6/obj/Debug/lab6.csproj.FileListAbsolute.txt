@@ -1,0 +1,6 @@
+C:\Users\Alexey\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\Alexey\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Alexey\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Alexey\source\repos\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Alexey\source\repos\lab6\lab6\obj\Debug\lab6.pdb
